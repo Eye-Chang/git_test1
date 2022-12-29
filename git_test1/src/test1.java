@@ -11,5 +11,7 @@ public class test1 {
         System.out.println("hello IDEA GIT2");
         System.out.println("hello IDEA GIT2");
         System.out.println("222 IDEA GIT4");
+        System.out.println("免费");
+        System.out.println("鸡蛋啊");
     }
 }

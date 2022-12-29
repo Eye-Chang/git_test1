@@ -8,7 +8,11 @@
 public class test1 {
     public static void main(String[] args) {
         System.out.println("hello IDEA GIT");
+        System.out.println("免费");
+        System.out.println("鸡蛋啊");
         System.out.println("hello IDEA GIT2");
+        System.out.println("免费");
+        System.out.println("鸡蛋啊");
         System.out.println("hello IDEA GIT2");
         System.out.println("222 IDEA GIT4");
         System.out.println("免费");
